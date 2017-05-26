@@ -1,0 +1,20 @@
+{
+  "name": "zhb127/z-design-pattern-php-source-code",
+  "description": "design pattern php source code",
+  "authors": [
+    {
+      "name": "zhb127",
+      "email": "1224680008@qq.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=7.0",
+    "phpunit/phpunit": "~6.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "DesignPatterns\\": ""
+    }
+  }
+}
